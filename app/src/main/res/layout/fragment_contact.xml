@@ -90,7 +90,7 @@
                     android:layout_height="wrap_content"
                     android:layout_toEndOf="@id/imgPhone"
                     android:layout_marginTop="13dp"
-                    android:textColor="@color/cardview_dark_background"
+                    android:textColor="@android:color/white"
                     android:textStyle="bold"
                     android:text="@string/phone" />
 
@@ -131,7 +131,7 @@
                     android:layout_height="wrap_content"
                     android:layout_toEndOf="@id/imgEmail"
                     android:layout_marginTop="13dp"
-                    android:textColor="@color/cardview_dark_background"
+                    android:textColor="@android:color/white"
                     android:textStyle="bold"
                     android:text="@string/email" />
 
@@ -173,7 +173,7 @@
                     android:layout_height="wrap_content"
                     android:layout_toEndOf="@id/imgIg"
                     android:layout_marginTop="13dp"
-                    android:textColor="@color/cardview_dark_background"
+                    android:textColor="@android:color/white"
                     android:textStyle="bold"
                     android:text="@string/instagram" />
 
@@ -181,12 +181,12 @@
                     android:id="@+id/tvMyIg"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="@string/my_ig"
-                    android:textSize="15sp"
-                    android:textStyle="bold"
                     android:layout_below="@id/tvIg"
                     android:layout_toEndOf="@id/imgIg"
-                    android:textColor="@android:color/white" />
+                    android:text="@string/my_ig"
+                    android:textColor="@android:color/white"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
 
             </RelativeLayout>
 
@@ -214,7 +214,7 @@
                     android:layout_height="wrap_content"
                     android:layout_toEndOf="@id/imgTwitter"
                     android:layout_marginTop="13dp"
-                    android:textColor="@color/cardview_dark_background"
+                    android:textColor="@android:color/white"
                     android:textStyle="bold"
                     android:text="@string/twitter" />
 
