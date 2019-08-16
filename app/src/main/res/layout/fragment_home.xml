@@ -54,6 +54,6 @@
         android:background="@drawable/item_button"
         android:text="@string/sign_out"
         android:textAllCaps="false"
-        android:textColor="@android:color/black" />
+        android:textColor="#f7a6b9" />
 
 </LinearLayout>
