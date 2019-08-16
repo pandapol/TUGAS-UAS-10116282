@@ -23,7 +23,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/title_contact"
-                android:textColor="@android:color/white"
+                android:textColor="#f7a6b9"
                 android:textSize="@dimen/toolbarText" />
 
         </android.support.v7.widget.Toolbar>

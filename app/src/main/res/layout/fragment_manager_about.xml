@@ -14,9 +14,9 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:tabSelectedTextColor="@android:color/white"
+        app:tabSelectedTextColor="#f7a6b9"
         app:tabTextAppearance="@style/Base.TextAppearance.AppCompat.Small"
-        app:tabTextColor="@color/colorMuted">
+        app:tabTextColor="#f7a6b9">
 
         <android.support.design.widget.TabItem
             android:layout_width="wrap_content"
